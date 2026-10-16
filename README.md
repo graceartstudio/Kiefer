@@ -2,7 +2,7 @@
 
 **Anselm Kiefer: Matter, Ruin and Transformation**
 
-在线展览：https://06savannah16-ship-it.github.io/Kiefer/
+在线展览：https://graceartstudio.github.io/Kiefer/
 
 一个以滚动叙事展开的线上展览 V1。项目基于 [Marginalia](https://github.com/uxderrick/marginalia) 改造，保留它的 React + Vite、Framer Motion、Lenis 平滑滚动和章节式转场，将视觉语言从 Renaissance portfolio 改为材料剧场与 conservation lab。
 
@@ -48,7 +48,7 @@ npm run preview
 
 05 的最后保留了 `Visitor Material Intake` 入口。当前状态为 `API OFFLINE / ACTIVATION PENDING`：观众选择的图片只会在自己的浏览器中预览，不会上传、保存或产生 API 费用。未来接上服务器端 Agent 与图像生成接口时，可以保留现有界面，只替换提交逻辑。
 
-入口同时提供 [`Download the Skill`](https://github.com/06savannah16-ship-it/material-decay-aesthetics)：方法与代码可以免费下载，使用者通过自己的 API 配置运行，展览方无需为下载者的调用付费。
+入口同时提供 [`Download the Skill`](https://github.com/graceartstudio/material-decay-aesthetics)：方法与代码可以免费下载，使用者通过自己的 API 配置运行，展览方无需为下载者的调用付费。
 
 ## GitHub Pages 发布
 
