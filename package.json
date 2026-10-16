@@ -16,13 +16,13 @@
   ],
   "author": "Exhibition adaptation based on Marginalia by Derrick Tsorme",
   "license": "MIT",
-  "homepage": "https://06savannah16-ship-it.github.io/Kiefer/",
+  "homepage": "https://graceartstudio.github.io/Kiefer/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/06savannah16-ship-it/Kiefer.git"
+    "url": "https://github.com/graceartstudio/Kiefer.git"
   },
   "bugs": {
-    "url": "https://github.com/06savannah16-ship-it/Kiefer/issues"
+    "url": "https://github.com/graceartstudio/Kiefer/issues"
   },
   "type": "module",
   "scripts": {
